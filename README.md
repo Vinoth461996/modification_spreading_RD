@@ -1,0 +1,1 @@
+This repository contains all the files required to replicate the plots of the manuscript "Role of diffusion and reaction of the constituents in spreading of histone modification marks" (https://doi.org/10.1101/2023.12.13.571420)
